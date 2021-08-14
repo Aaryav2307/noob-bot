@@ -1,0 +1,46 @@
+.heading {
+    font-size: 30px;
+    font-family: 'Georama', sans-serif;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 20px rgb(238, 206, 150);
+    color: #ffa600;
+    background-color:rgb(235, 107, 52);
+}
+
+.noob {
+    float: none;
+    background-color: #3e2000;
+    border-radius: 10px;
+    padding: 10px;
+    color: #ff4000;
+    box-shadow: 7px 7px 5px rgb(0, 0, 0);
+}
+
+.bot{
+    margin-top: 2px;
+    font-size: 20px;
+    box-shadow: 7px 7px 5px rgb(235, 107, 52);
+    color:rgb(235, 107, 52)
+}
+
+#dev{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(255, 119, 0);
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Georama', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.result_para{
+    font-family: 'Georama', sans-serif;
+}
+
+canvas{
+    border: 1px solid rgb(255, 140, 0);
+    border-radius: 50%;
+}
